@@ -1,0 +1,13 @@
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\bin\Debug\TarifUygulamasi.exe.config
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\bin\Debug\TarifUygulamasi.exe
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\bin\Debug\TarifUygulamasi.pdb
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.csproj.AssemblyReference.cache
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.Properties.Resources.resources
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.csproj.GenerateResource.cache
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.exe
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.pdb
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.EklemeForm.resources
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.GuncellemeForm.resources
+C:\Users\umutk\Dropbox\PC\Desktop\YazLab1_1\TarifUygulamasi\TarifUygulamasi\obj\Debug\TarifUygulamasi.UK_Recipes.resources
